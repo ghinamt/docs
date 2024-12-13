@@ -1,8 +1,120 @@
 {
-    "items": [
+    "menu": [
         {
-            "text": "Sample Menu Item - 1",
-            "path": "Index.md"
+            "text": "1. Introduction",
+            "link": "/1_introduction.md"
+        },
+        {
+            "text": "1.1 Purpose of the Document",
+            "link": "/11_purpose_of_the_document.md"
+        },
+        {
+            "text": "1.2 Overview of Akadimi",
+            "link": "/12_overview_of_akadimi.md"
+        },
+        {
+            "text": "1.3 Target Audience",
+            "link": "/13_target_audience.md"
+        },
+        {
+            "text": "2. Technical Architecture",
+            "link": "/2_technical_architecture.md"
+        },
+        {
+            "text": "2.1 System Architecture Diagram",
+            "link": "/21_system_architecture_diagram.md"
+        },
+        {
+            "text": "2.2 Frameworks and Technologies",
+            "link": "/22_frameworks_and_technologies.md"
+        },
+        {
+            "text": "2.3 Security and Data Protection",
+            "link": "/23_security_and_data_protection.md"
+        },
+        {
+            "text": "3. Quality Management",
+            "link": "/3_quality_management.md"
+        },
+        {
+            "text": "3.1 Version Control and Code Management",
+            "link": "/31_version_control_and_code_management.md"
+        },
+        {
+            "text": "4. Application Features and Modules",
+            "link": "/4_application_features_and_modules.md"
+        },
+        {
+            "text": "4.1 Admin Dashboard Overview",
+            "link": "/41_admin_dashboard_overview.md"
+        },
+        {
+            "text": "4.2 Accessing Akadimi as a User (Frontend)",
+            "link": "/42_accessing_akadimi_as_a_user_(frontend).md"
+        },
+        {
+            "text": "4.3 Core Features of Akadimi",
+            "link": "/43_core_features_of_akadimi.md"
+        },
+        {
+            "text": "4.3.1 Book Reading View",
+            "link": "/431_book_reading_view.md"
+        },
+        {
+            "text": "4.3.2 Backpack Feature",
+            "link": "/432_backpack_feature.md"
+        },
+        {
+            "text": "4.3.3 Bookmarks",
+            "link": "/433_bookmarks.md"
+        },
+        {
+            "text": "4.3.4 Annotations",
+            "link": "/434_annotations.md"
+        },
+        {
+            "text": "4.3.5 Akadimi AI Tools",
+            "link": "/435_akadimi_ai_tools.md"
+        },
+        {
+            "text": "4.4 Differences Between Web and Electron Versions",
+            "link": "/44_differences_between_web_and_electron_versions.md"
+        },
+        {
+            "text": "5. Performance and Scalability",
+            "link": "/5_performance_and_scalability.md"
+        },
+        {
+            "text": "5.1 Load Testing Results",
+            "link": "/51_load_testing_results.md"
+        },
+        {
+            "text": "6. Market Potential and Value Proposition",
+            "link": "/6_market_potential_and_value_proposition.md"
+        },
+        {
+            "text": "6.1 Competitive Analysis",
+            "link": "/61_competitive_analysis.md"
+        },
+        {
+            "text": "7. Additional Features",
+            "link": "/7_additional_features.md"
+        },
+        {
+            "text": "7.1 Browser Compatibility",
+            "link": "/71_browser_compatibility.md"
+        },
+        {
+            "text": "7.2 Custom Tenant Features",
+            "link": "/72_custom_tenant_features.md"
+        },
+        {
+            "text": "8. Future Roadmap",
+            "link": "/8_future_roadmap.md"
+        },
+        {
+            "text": "9. Conclusion",
+            "link": "/9_conclusion.md"
         }
     ]
 }
